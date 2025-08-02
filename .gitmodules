@@ -1,3 +1,6 @@
 [submodule "task-1"]
 	path = task-1
 	url = https://github.com/School-of-Solana/task1-hutomosaktikartiko
+[submodule "task-2"]
+	path = task-2
+	url = https://github.com/School-of-Solana/task2-hutomosaktikartiko
