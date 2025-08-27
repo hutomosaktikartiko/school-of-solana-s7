@@ -10,3 +10,6 @@
 [submodule "task-4"]
 	path = task-4
 	url = https://github.com/School-of-Solana/task4-hutomosaktikartiko
+[submodule "solana-program"]
+	path = solana-program
+	url = https://github.com/School-of-Solana/program-hutomosaktikartiko.git
